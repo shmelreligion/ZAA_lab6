@@ -1,0 +1,22 @@
+{
+  "level": 1,
+  "raceName": "Gnome",
+  "className": "Bard",
+  "name": "Elowen",
+  "index": "hero-elowen",
+  "stats": {
+    "STR": 13,
+    "WIS": 18,
+    "CON": 6,
+    "DEX": 10,
+    "CHA": 14,
+    "INT": 13
+  },
+  "skills": [],
+  "equipment": [
+    "1 x Leather Armor",
+    "1 x Dagger"
+  ],
+  "hitPoints": 6,
+  "armorClass": 10
+}
